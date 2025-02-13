@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+:notebook: I'm currently experimenting with AI development
+:ghost: Knocking off the dust on my development skills
 <!--
 **bwarneck/bwarneck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
